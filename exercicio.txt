@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href="./main.css" />
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+                <h1 >Meu portal de notícias</h1>
+                <nav>
+                    <ul>
+                        <li>
+                        </li>
+                        <li>
+                            <a href="#sport" title="Ir para a seção de esportes">Esportes</a>
+                            <a href="#economy" title="Ir para a seção de notícias">Economia</a>
+                            <a href="#culinaria" title="Ir para a seção de culinaria">Culinaria</a>
+                            <a href="#medicina" title="Ir para a seção de Medicina">Medicina</a>
+                        </li>
+                    </ul>
+                </nav>
+        </div>
+    </header>
+            <section id="sport" >
+            <div class="container">
+                <h2>Esportes</h2>
+                <div class="articles">
+                    <article>
+                        <img src="./futebol.jpg" alt="Bola de futebol no gramado" />
+                        <header>
+                            <time class="creation-date" >13/07/2022 às 12:35</time>
+                        </header>
+                        <h3>Grande clássico na noite de hoje</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                        <article>
+                            <img src="./futebol-americano.jpg" alt="Jogador de futebol americano correndo com a bola na mão" />
+                            <header>
+                                <time>13/07/2022 às 12:35</time>
+                            </header>
+                            <h3>Noite do Superbowl</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                            </p>
+                            <a href="#" title="Leia a notícia completa">Ler mais</a>
+                        </article>
+                        <article>
+                            <img src="./basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+                            <header>
+                                <time>13/07/2022 às 12:35</time>
+                            </header>
+                            <h3>Notícia sobre a NBA</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                            </p>
+                            <a href="#" title="Leia a notícia completa">Ler mais</a>
+                        </article>
+                </div>
+            </div>
+            </section>
+    <section id="economy" >
+        <div class="container">
+            <h2>Economia</h2>
+            <div class="articles">
+                <article>
+                    <img src="./dolares.jpg" alt="Muitos dólares" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Dólar em alta de 0.50%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./euro.jpg" alt="Várias notas de euro" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Euro em queda de 0.40%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./petroleo.jpg" alt="Extração de petróleo" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Alta no preço do barril do petróleo</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section id="culinaria" >
+        <div class="container">
+            <h2>Culinaria</h2>
+            <div class="articles">
+                <article>
+                    <img src="./comida.jpg" alt="Culinaria" />
+                    <header>
+                        <time>17/01/2024 às 16:55</time>
+                    </header>
+                    <h3>Culinária brasileira é eleita 12ª do mundo em ranking internacional</h3>
+                    <p>
+                        A culinária brasileira foi eleita a 12ª melhor do mundo em um ranking do guia Taste Atlas, divulgado na última terça-feira (12). A cozinha italiana, a japonesa e a grega ficaram com os três primeiros lugares na lista. O levantamento feito pelo guia usou como base 271.819 classificações de pratos e 80.863 avaliações de produtos alimen...
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./local.jpg" alt="Restaurante local" />
+                    <header>
+                        <time>17/01/2024 às 16:43</time>
+                    </header>
+                    <h3>Com inspiração na culinária italiana, café abre em Porto Alegre</h3>
+                    <p>
+                        O desejo de abrir o próprio negócio sempre fez parte da vida de Caroline Zanotta, mas foi somente quando a família cresceu que o sonho saiu do papel. Quando Ana Marquetti, sua filha, começou a namorar com Francisco Marquetti, barista e apaixonado por café, o cenário parecia ideal para a família dar o primeiro passo no empreend...
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./oriental.jpg" alt="culinaria japonesa" />
+                    <header>
+                        <time>17/01/2024 às 16:49</time>
+                    </header>
+                    <h3>Onigiri To Go, franquia especializa em culinária japonesa</h3>
+                    <p>
+                        Localizado no bairro Juvevê, o empreendimento especializado no clássico Onigiri, alimento tradicional da culinária japonesa tem conquistado e se destacado no cenário gastronômico curitibano como uma opção prática e por se encaixar em uma opção mais saudável, sem deixar de lado o sabor. O Onigiri To Go já está de portas abertas desde 2022 atend..
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section id="medicina" >
+        <div class="container">
+            <h2>Medicina</h2>
+            <div class="articles">
+                <article>
+                    <img src="./30442.jpg" alt="Impressão 3D na medicina">
+                    <header>
+                        <time>17/01/2024 às 16:27</time>
+                    </header>
+                    <h3>Impressão 3D na medicina moderna</h3>
+                    <p>
+                        A tecnologia tridimensional vem se aprimorando nas últimas décadas e chamando atenção pelos múltiplos usos na saúde. Uma das aplicações mais celebradas é a criação de modelos anatômicos para treinamen..                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./feche-a-mao-segurando-uma-tela-futurista.jpg" alt="Gestão de dados na saúde" />
+                    <header>
+                        <time>17/01/2024 às 16:30</time>
+                    </header>
+                    <h3>Gestão de dados na saúde</h3>
+                    <p>
+                        A digitalização da saúde traz consigo o conceito de big data, a coleta e armazenamento de grandes volumes de dados a partir de incontáveis fontes.Entre elas, estão o agendamentos e resultados de exa...
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./robotica.jpg" alt="A cirurgia robotica veio pra ficar" />
+                    <header>
+                        <time>17/01/2024 às 16:30</time>
+                    </header>
+                    <h3>A cirurgia robotica veio pra ficar</h3>
+                    <p>
+                        Menor perda sanguínea, menos dor e desconforto no pós-operatório, diminuição do risco de complicações, cicatrizes mínimas, redução do tempo de hospitalização e recuperação mais tranquila. Esses seriam... 
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+ 
